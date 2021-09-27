@@ -1,5 +1,6 @@
 
 *О проекте*
+
 Если вдруг кому-то это понадобится.
 Проект реализует задачу передачи информации между сервером, клиентом и вычислительными машинами. Предусмотрена синхронизация времени между машинами.
 Примерный алгоритм действий:
@@ -20,6 +21,7 @@ port = 1114
 Данный проект будет адаптирован под WinForms и будет иметь лучшую изменяемость ( надеюсь;) ).
 
 *About*
+
  If suddenly someone needs it.
 The project implements the task of transferring information between the server, client and computers. Synchronization of time between machines is provided.
 Approximate algorithm of actions:
